@@ -5,3 +5,7 @@ body {
 h1.title {
     color: #1721ff;
 }
+
+.btn-success {
+    margin-bottom: 60px;
+}
